@@ -93,7 +93,7 @@ python gui.py
 
 ## Download
 
-You can download the required file from Google Drive:
+You can download the demo video file from Google Drive:
 
 [Download the file](https://drive.google.com/file/d/13VUCnfP7RtrWlmqVu0RMdne6imxzWUm3/view?usp=sharing)
 
